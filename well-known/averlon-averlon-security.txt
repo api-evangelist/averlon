@@ -1,0 +1,6 @@
+Contact: mailto:security@averlon.io
+Expires: 2026-09-21T06:59:00.000Z
+Preferred-Languages: en
+Canonical: https://www.averlon.ai/.well-known/security.txt
+Policy: https://www.averlon.ai/responsible-disclosure
+Hiring: https://www.averlon.ai/careers
